@@ -1,0 +1,6 @@
+group 'me.pggsnap.demos'
+version '1.0'
+
+dependencies {
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.2.6.RELEASE'
+}

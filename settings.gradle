@@ -1,0 +1,4 @@
+rootProject.name = 'redis-cluster'
+include 'redis-cluster-normal'
+include 'redis-cluster-reactive'
+
